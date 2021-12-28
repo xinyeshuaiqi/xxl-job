@@ -1,4 +1,4 @@
-package pers.wmx.demo;
+package wmx;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
